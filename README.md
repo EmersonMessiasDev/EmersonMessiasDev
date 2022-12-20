@@ -2,11 +2,6 @@
 ### - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na FICR.
 
 ### - 🌱 Toda fonte de conhecimento será sempre bem vinda por isso que nesse momento onde estou cursando na faculdade e realizando alguns treinamentos por fora estou conhecendo um pouco de cada area pra assim me tornar um profissional com o minimo de conhecimento em cada area e sempre estou aberto a novos desafios.
-<div>
-  <a href="https://github.com/EmersonMessiasDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonMessiasDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonMessiasDev&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 ##
 <div style="display: inline_block"><br>
