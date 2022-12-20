@@ -1,7 +1,8 @@
 ## Olá!! Eu sou o merson!👋
-### - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na FICR.
+### - Estagiario - Desenvolvedor Salesforce na Framework Digital.
+### - 🔭 Atualmente cursando Analise e Desenvolvimento de Sistemas na FICR.
 
-### - 🌱 Toda fonte de conhecimento será sempre bem vinda por isso que nesse momento onde estou cursando na faculdade e realizando alguns treinamentos por fora estou conhecendo um pouco de cada area pra assim me tornar um profissional com o minimo de conhecimento em cada area e sempre estou aberto a novos desafios.
+### - 🌱 Toda fonte de conhecimento será sempre bem vinda, por isso sempre estou aberto a novos desafios.
   
 ##
 <div style="display: inline_block"><br>
