@@ -1,9 +1,8 @@
 <h1 align="center">Óla 👋, Meu nome é Émerson Messias</h1>
-<h3 align="center">Atualmente Desenvolvedor de software Jr</h3>
 
-### - 🔭 Atuando no momento como Desenvolvedor de software **Na Framework digital terceirizado na Localiza**
+### - 🔭 Atuando no momento como Desenvolvedor de software Jr **Na Framework digital terceirizado na Localiza**
 
-### - 🌱 Toda fonte de conhecimento será sempre bem vinda, por isso sempre estou aberto a novos desafios.
+### - 🌱 Sonhos não funcionam a menos que você faça.
   
 ##
 <div style="display: inline_block"><br>
